@@ -39,4 +39,8 @@ function fetchNextBatch (cb) {
 
 ## Can I use it? Is it stable?
 
-Not really :) I'm going to be trying a few different things first, and adding a couple of extra features (eg. option for running in parallel VS series). But your feedback is still welcome. I'd also like to write an implementation with pull-streams because I think it would be a very useful comparison (and probs much cleaner too!).
+Not really :) I'm going to be trying a few different things first, and adding a couple of extra features (eg. option for running in parallel VS series). But your feedback is still welcome. I'd also like to write an implementation with [pull-streams](https://github.com/pull-stream/pull-stream) because I think it would be a very useful comparison (and probs much cleaner too!).
+
+## License
+
+MIT
